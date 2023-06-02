@@ -1,0 +1,36 @@
+.viewHighscore {
+    font-size: 20px;
+}
+
+.time {
+ text-align:right;
+ margin-right:2px;
+ position:relative;
+ top:-57px;
+}
+.header1 {
+    font-size:50px;
+    text-align: center;
+    position: absolute;
+    left: 50%;
+    top: 15%;
+    transform: translate(-50%, -50%);
+}
+
+.challengeDescription {
+    font-size:20px;
+    width:600px;
+    text-align: center;
+    position: absolute;
+    left:35%;
+    top:25%;
+}
+
+.startQuizButton {
+   margin-left:900px;
+   position: absolute;
+   top:37%;
+   background-color:purple;
+   color:white;
+   border-radius:10%;
+}
